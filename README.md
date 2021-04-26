@@ -1,3 +1,5 @@
 # HW8
 
-Happy hacking!
+```bash
+git clone https://github.com/ut-alr/HW8.git
+```
